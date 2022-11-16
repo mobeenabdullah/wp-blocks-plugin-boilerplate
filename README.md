@@ -1,1 +1,1 @@
-# wp-blocks-plugin-boilerplate
+# WP Blocks Plugin Boilerplate
